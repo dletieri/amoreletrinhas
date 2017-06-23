@@ -1,0 +1,11 @@
+GIT do Tranquilpeak
+https://github.com/kakawait/hugo-tranquilpeak-theme
+
+For hexo
+https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/issues/366
+
+Love images for free
+https://pixabay.com/en/photos/?hp=&image_type=&cat=&min_width=&min_height=&q=heart&order=popular
+
+Useful image
+https://pixabay.com/en/rope-knitting-heart-love-together-1469244/
